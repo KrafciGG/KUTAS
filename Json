@@ -1,8 +1,8 @@
 {
 version : '0.1',
-downloadLink: '',
+downloadLink: 'https://raw.githubusercontent.com/KrafciGG/KUTAS/master/dlllink',
 Message : '0.1',
-ChangeLog : '',
+ChangeLog : 'https://raw.githubusercontent.com/KrafciGG/KUTAS/master/Informations',
 isClose : 'true',
 filename : 'Ethyr.exe'
 }
